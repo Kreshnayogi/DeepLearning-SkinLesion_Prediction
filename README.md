@@ -1,8 +1,8 @@
 # DeepLearning-SkinLesion_Prediction
 
-## By Kreshnayogi Dava Berliansyach 22/496686/PA/21352
+## By Kreshnayogi Dava Berliansyach
 
-Description:
+**Description:**
 
 * A project comparing two Deep Learning Models predicting whether a skin lesion is benign or malignant
 
